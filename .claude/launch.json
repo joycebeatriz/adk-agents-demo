@@ -1,0 +1,1 @@
+{ "version": "0.0.1", "configurations": [ { "name": "slides", "runtimeExecutable": "python3", "runtimeArgs": ["-m", "http.server", "8131"], "port": 8131 } ] }

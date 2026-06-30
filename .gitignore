@@ -1,0 +1,15 @@
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações/Chaves locais
+.env
+
+# Pastas internas do ADK
+.adk/
